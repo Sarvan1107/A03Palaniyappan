@@ -1,0 +1,22 @@
+{
+  "name": "w06Copy",
+  "version": "0.0.1",
+  "description": "simple chat app",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "logger": "0.0.1",
+    "morgan": "^1.7.0",
+    "socket.io": "^1.5.0",
+    "mailgun-js":"latest"
+  },
+  "author": "Denise Case",
+  "homepage": "https://bitbucket.org/professorcase/w06",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/professorcase/w06"
+  },
+  "license": "Apache-2.0"
+}
